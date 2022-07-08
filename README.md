@@ -1,21 +1,16 @@
-# Line_Follower-Arduino
+Adding all the source code for engineer projects based on arduino.
+Here i have used embeded C and C++ 
+To make the circuit, I had used Tina TI, xCircuit or Proteus
 
-Line Follower Robot (LFR) is a simple autonomously guided robot that follows a line drawn on the ground to either detect a dark line on a white surface or a white line on a dark
 
-Components Required for Making Arduino Line Follower Robot
+Project List : 
 
-1) Arduino Uno
+1) Line follower
 
-2) L293D motor driver
+2) Automated water vending machine
 
-3) IR sensor module 
+3) IOT based Electric energy meter
 
-4) 7.4 or 9V battery 
+4) Measuring water flow rate and volume
 
-5) BO motor 
-
-6) Motor wheel 
-
-7) Castor wheel 
-
-8) Robot chassis 
+5) Walkie Talkie
